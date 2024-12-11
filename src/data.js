@@ -2,6 +2,7 @@ import tour1 from './images/tour-1.jpeg';
 import tour2 from './images/tour-2.jpeg';
 import tour3 from './images/tour-3.jpeg';
 import tour4 from './images/tour-4.jpeg';
+import tour6 from './images/tour-6.jpeg';
 
 export const pageLinks=
 
@@ -38,6 +39,7 @@ export const tours=[
     
     {id:3,date:'september 15th, 2020',title:'explore hong kong',text:' Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, official',country:'hong kong',days:8,image:tour3,price:5000},
     {id:4,date:'december 5th, 2019',title:'kenya highlights',text:' Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, official',country:'kenya',days:8,image:tour4,price:8000},
+    {id:5,date:'November 5th, 2022',title:'India highlights',text:' Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, official',country:'india',days:7,image:tour6,price:10000},
 
 
 ]
